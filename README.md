@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ertan AYYILDIZ</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
+<h3 align="center">A passionate backend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzYwcDN0a2w3NzR3a2Q3eDQzNHhrczJrd2kzN3RqZG00N2c5dThlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ertanayyildiz&label=Profile%20views&color=0e75b6&style=flat" alt="ertanayyildiz" /> </p>
