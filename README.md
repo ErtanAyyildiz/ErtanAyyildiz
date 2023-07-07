@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ertanayyildiz" target="blank"><img src="https://img.shields.io/twitter/follow/ertanayyildiz?logo=twitter&style=for-the-badge" alt="ertanayyildiz" /></a> </p>
 
-- 🔭 I’m currently working on [React-and-ASP.NET-Core]([https://github.com/ErtanAyyildiz/Gamy](https://github.com/ErtanAyyildiz/React-and-ASP.NET-Core))
+- 🔭 I’m currently working on [React and ASP.NET Core]([https://github.com/ErtanAyyildiz/Gamy](https://github.com/ErtanAyyildiz/React-and-ASP.NET-Core))
 
 - 🌱 I’m currently learning **React, Java, Spring Boot, Hibernate**
 
