@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ertanayyildiz&label=Profile%20views&color=0e75b6&style=flat" alt="ertanayyildiz" /> </p>
 
-<p align="left"> <a href="https://twitter.com/AyyildizErtan" target="blank"><img src="https://img.shields.io/twitter/follow/ertanayyildiz?logo=twitter&style=for-the-badge" alt="ertanayyildiz" /></a> </p>
 
 - 🔭 I’m currently working on [React](https://github.com/ErtanAyyildiz/React-and-ASP.NET-Core)
 
